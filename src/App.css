@@ -1,0 +1,13 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #282c34;
+  color: white;
+  text-align: center;
+}
+
+canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
